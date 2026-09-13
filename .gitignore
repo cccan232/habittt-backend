@@ -1,0 +1,49 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# 编译产物（不传，每次都会重新生成）
+target/
+
+# IDEA 配置（不传，包含本地路径）
+.idea/
+*.iml
+
+# 用户上传的文件（不传，包含隐私和大文件）
+uploads/
+
+# 真实的配置文件（不传，换成模板）
+src/main/resources/application.properties
+
+# 日志
+*.log
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/

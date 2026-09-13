@@ -17,12 +17,12 @@ Habittt 是一个基于“游戏化正向反馈机制”的习惯养成系统。
 
 | 模块 | 截图 |
 | :---: | :---: |
-| **地图** | ![地图1](habittt-frontend\screenshots\map1.png)![地图2](habittt-frontend\screenshots\map2.png) |
-| **登录与注册** | ![登录注册1](habittt-frontend\screenshots\login1.png) ![登录注册2](habittt-frontend\screenshots\login2.png)|
-| **任务列表与打卡** | ![任务列表](habittt-frontend\screenshots\tasklist.png) |
-| **装扮商城** | ![装扮商城](habittt-frontend\screenshots\shop.png) |
-| **队伍聊天** | ![队伍聊天](habittt-frontend\screenshots\team.png) |
-| **管理后台** | ![管理后台](habittt-frontend\screenshots\admin.png) |
+| **地图** | ![地图1](screenshots\map1.png)![地图2](screenshots\map2.png) |
+| **登录与注册** | ![登录注册1](screenshots\login1.png) ![登录注册2](screenshots\login2.png)|
+| **任务列表与打卡** | ![任务列表](screenshots\tasklist.png) |
+| **装扮商城** | ![装扮商城](screenshots\shop.png) |
+| **队伍聊天** | ![队伍聊天](screenshots\team.png) |
+| **管理后台** | ![管理后台](screenshots\admin.png) |
 
 
 ## 技术栈
